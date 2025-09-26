@@ -1,0 +1,1 @@
+Navigate to the customer support portal. Click on "Create New Ticket". Select "Technical Issue" from the category dropdown. Type "Login problems" in the subject field. Enter a detailed description of the login issue in the text area. Upload screenshot "error.png". Select priority as "High". Click Submit ticket. Wait for confirmation message. Verify ticket number is displayed.
