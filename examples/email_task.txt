@@ -1,0 +1,1 @@
+Open the email application. Click "Compose" button. Type "sales@company.com" in the recipient field. Enter "Project Update" as the subject. Write "Please find attached the latest project report." in the message body. Attach the file "report.pdf". Click Send button. Verify the email was sent successfully.

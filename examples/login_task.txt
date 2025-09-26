@@ -1,0 +1,1 @@
+Go to the login page. Click on the username field and type "john.doe@example.com". Click on the password field and enter "mypassword123". Click the login button. Verify that the dashboard page loads successfully.
